@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @revaztutarashvili
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML; CSS; JS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m going to got prof
 - 📫 generationofjeans@gmail.com
 
 <!---
