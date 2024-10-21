@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @revaztutarashvili
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML; CSS; JS.
-- 💞️ I’m going to got prof
+- 👋 Hi, I’m @revaztutarashvili;
+- 👀 I’m interested in serverside web development;
+- 🌱 I’m currently learning JAVA;
+- 💞️ I’m going to got prof;
 - 📫 generationofjeans@gmail.com
