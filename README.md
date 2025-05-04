@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revaztutarashvili;
-- 👀 I’m interested in serverside web development;
+- 👀 I’m interested in Backend development;
 - 🌱 I’m currently learning JAVA;
-- 💞️ I’m going to got prof;
-- 📫 generationofjeans@gmail.com
+- 💞️ I’m going to be Senior Java Engineer;
+- 📫 Revaztutarashvili@gmail.com
